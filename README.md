@@ -19,6 +19,12 @@ In the folder of this repo you can find,
 ```
 communities/ : nodes and edges from all the networks
 communities_hierachical/ : multilevel Louvain algorithm partitioning
+cytoscape_files/ : visualization of the grapg using Cytoscape tool
+echo chambers/ : final analysis after re-running the random walks algorithms
+figures/: final figures
+networks: final networks
+new_worldlouds/: worldclouds that emerged after analysis
+sentiment/ : polarity and subjectivity of the tweets
 ```
 
 
