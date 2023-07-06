@@ -4,6 +4,10 @@
 
 The following project was designed as part of his **thesis** for the Aristotle University of Thessaloniki in the Department of Informatics. We present an analysis for finding echo chambers in widespread social media, using state-of-the-art datasets, which are available for use as created by the author for this purpose. 
 
+![echo_chamb_readme](https://github.com/dkavargy/echo-chambers-twitter/assets/73905168/22bd17b7-7fab-47a7-a026-1a973a023c23)
+
+
+
 #### Folder
 In the src folder you can find:
 
