@@ -2,7 +2,7 @@
 ## Echo Chamber Detection
 ### Kavargyris Dimitrios - Christos
 
-The following project was designed as part of his **thesis** for the Aristotle University of Thessaloniki in the Department of Informatics. We present an analysis for findingThe following project was designed as part of his thesis for the Aristotle University of Thessaloniki in the Department of Informatics. We present an analysis for finding echo chambers in widespread social media, using state-of-the-art datasets, which are available for use as created by the author for this purpose. in widespread social media, using state-of-the-art datasets, which are available for use as created by the author for this purpose.
+The following project was designed as part of his **thesis** for the Aristotle University of Thessaloniki in the Department of Informatics. We present an analysis for finding echo chambers in widespread social media, using state-of-the-art datasets, which are available for use as created by the author for this purpose. in widespread social media, using state-of-the-art datasets, which are available for use as created by the author for this purpose.
 
 #### Folder
 In the src folder you can find:
