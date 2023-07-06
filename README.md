@@ -27,5 +27,13 @@ new_worldlouds/: worldclouds that emerged after analysis
 sentiment/ : polarity and subjectivity of the tweets
 ```
 
+and launch the following command:
+```
+python main
+```
+#### Main libraries used
+
+[pandas](https://pandas.pydata.org/) [seaborn](https://seaborn.pydata.org/) [matplotlib](https://matplotlib.org/) [igraph](https://igraph.org/python/) [numpy](https://numpy.org/)
+
 
 
